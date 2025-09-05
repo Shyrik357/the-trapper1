@@ -109,43 +109,43 @@ left: 300px;
 }
 .bb{
 position: relative;
-top: 200px;
+top: 230px;
 }
 .bb1{
 position: relative;
-top: -50px;
+top: 0px;
 left: 300px;
 width: 800px;
 }
 .bb2{
 position: relative;
-top: 200px;
+top: 230px;
 width: 250px;
 left: 20px;
 }
 .bb3{
 position: relative;
-top: -50px;
+top: 0px;
 left: 300px;
 }
 .vv{
 position: relative;
-top: 0px;
+top:80px;
 }
 .vv2{
 position: relative;
-top: 0px;
+top: 80px;
 width: 250px;
 left: 20px;
 }
 .vv1{
 position: relative;
 width: 800px;
-top: -250px;
+top: -150px;
 left: 300px;
 }
 .vv3{
 position: relative;
-top: -250px;
+top: -150px;
 left: 300px;
 }
